@@ -1,1 +1,7 @@
-Hi Hello
+
+
+class Wise {
+
+    Hi Hello
+
+}
