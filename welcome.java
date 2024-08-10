@@ -5,5 +5,13 @@ class Welcome {
     int d = 60;
 
 
+
+    
+//task - 102 change
+m2 ()
+
+}
+
+
     
 }
