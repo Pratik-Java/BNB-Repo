@@ -4,6 +4,7 @@ class Welcome {
     int c = 40;
     int d = 60;
 
+<<<<<<< Updated upstream
 
 
     
@@ -14,4 +15,9 @@ m2 ()
 
 
     
+=======
+    //task - 101 change
+    m1 ()
+}
+
 }
