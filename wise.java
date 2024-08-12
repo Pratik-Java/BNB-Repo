@@ -2,6 +2,6 @@
 
 class Wise {
 
-    Hi Hello
+ int a = 10;
 
 }
